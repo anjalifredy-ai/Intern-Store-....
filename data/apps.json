@@ -1,19 +1,10 @@
 [
   {
-    "owner": "Remon",
+    "owner": "TERA_GITHUB_USERNAME",
     "repo": "BirdGame",
     "displayName": "Bird Game",
-    "shortDescription": "Flappy-bird style arcade game with multiple difficulty modes",
+    "shortDescription": "Flappy-bird style arcade game",
     "category": "Arcade",
-    "iconUrl": "",
-    "developer": "Remon"
-  },
-  {
-    "owner": "Remon",
-    "repo": "DreadArchive",
-    "displayName": "Dread Archive",
-    "shortDescription": "Horror game hub with a dark VHS anthology aesthetic",
-    "category": "Entertainment",
     "iconUrl": "",
     "developer": "Remon"
   }
