@@ -1,0 +1,20 @@
+[
+  {
+    "owner": "Remon",
+    "repo": "BirdGame",
+    "displayName": "Bird Game",
+    "shortDescription": "Flappy-bird style arcade game with multiple difficulty modes",
+    "category": "Arcade",
+    "iconUrl": "",
+    "developer": "Remon"
+  },
+  {
+    "owner": "Remon",
+    "repo": "DreadArchive",
+    "displayName": "Dread Archive",
+    "shortDescription": "Horror game hub with a dark VHS anthology aesthetic",
+    "category": "Entertainment",
+    "iconUrl": "",
+    "developer": "Remon"
+  }
+]
