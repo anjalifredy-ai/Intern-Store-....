@@ -1,9 +1,9 @@
 [
   {
-    "owner": "REMON",
-    "repo": "BirdGame",
+    "owner": "anjalifredy-ai",
+    "repo": "Bird-game-remon",
     "displayName": "Bird Game",
-    "shortDescription": "Flappy-bird style arcade game",
+    "shortDescription": "Flappy-bird style arcade game with multiple difficulty modes",
     "category": "Arcade",
     "iconUrl": "",
     "developer": "Remon"
